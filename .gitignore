@@ -1,0 +1,13 @@
+# Mac/OSX
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+
+# Ignore large dataset files
+CUB_200_2011
+dataset/test/embeddings.pickle
+dataset/train/embeddings.pickle
+
+# Ignore sample model files
+model.py

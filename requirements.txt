@@ -1,0 +1,10 @@
+keras
+pillow
+pytest
+matplotlib
+numpy
+pandas
+scikit-learn
+tensorflow
+jupyterlab
+gdown

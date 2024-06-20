@@ -11,3 +11,5 @@ dataset/train/embeddings.pickle
 
 # Ignore sample model files
 model.py
+oldmodel.py
+

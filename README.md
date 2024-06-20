@@ -66,6 +66,8 @@ To set up the environment and install the required packages, follow these steps:
 - `discriminator.h5`: The saved discriminator model after training.
 - `requirements.txt`: List of required packages for the project.
 - `dataset`: Directory where the dataset files are stored.
+- `test.ipynb`: To test the image generator model
+- `toImportFunc.py`: Give necessary function to `test.ipynb` for testing of Generator
 
 ### Usage
 
